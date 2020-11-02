@@ -1,4 +1,5 @@
-(https://github.com/F1G118034-Muhammad-alfian-izzah/F1G118034-Muhammad-alfian-izzah/blob/main/manhera.png)
+
+![](https://github.com/F1G118034-Muhammad-alfian-izzah/F1G118034-Muhammad-alfian-izzah/blob/main/manhera.png)
 
 Hey 👋🏻,
 
@@ -9,4 +10,4 @@ If it's a matter of my expertise, I can use a web frontend like html, css then t
 ## 📬 Get in touch
 
 
-other github😁😁  : https://github.com/MuhammadAlfianIzzah
+other github😁😁😃 : https://github.com/MuhammadAlfianIzzah
