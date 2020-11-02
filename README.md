@@ -1,4 +1,4 @@
-[![Hello 👋🏻](https://github.com/F1G118034-Muhammad-alfian-izzah/F1G118034-Muhammad-alfian-izzah/blob/main/manhera.png)][1]
+(https://github.com/F1G118034-Muhammad-alfian-izzah/F1G118034-Muhammad-alfian-izzah/blob/main/manhera.png)
 
 Hey 👋🏻,
 
